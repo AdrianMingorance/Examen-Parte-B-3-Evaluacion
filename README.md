@@ -55,4 +55,4 @@ Y por ultimo hacemos un push para que se suba a nuestro dockerhub
 
 Aqui dejo el link de mi cuenta de dockerhub para comprobar que se ha subido:
 
-[https://hub.docker.com/r/adrianmingorance/tomcat](url)
+[https://docker.com/r/adrianmingorance/tomcat](url)
