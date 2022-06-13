@@ -52,3 +52,7 @@ Comprobamos si se ha cambiado el nombre correctamente
 Y por ultimo hacemos un push para que se suba a nuestro dockerhub
 
 ![imagen](https://user-images.githubusercontent.com/91874740/173313076-f9cb117b-527f-4110-8090-4662fbd0368e.png)
+
+Aqui dejo el link de mi cuenta de dockerhub para comprobar que se ha subido:
+
+[docker pull adrianmingorance/tomcat](url)
