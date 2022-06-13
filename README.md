@@ -55,4 +55,7 @@ Y por ultimo hacemos un push para que se suba a nuestro dockerhub
 
 Aqui dejo el link de mi cuenta de dockerhub para comprobar que se ha subido:
 
-[https://docker.com/r/adrianmingorance/tomcat](url)
+[https://hub.docker.com/u/adrianmingorance](url)
+
+Y aqui el comando para podel hacer el pull de mi imagen
+    -  docker pull adrianmingorance/tomcat:latest
